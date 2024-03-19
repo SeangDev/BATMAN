@@ -1,4 +1,4 @@
 def main(n):
     return n
-N = 0
+N = 321
 print(main(N))
